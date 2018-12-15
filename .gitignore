@@ -1,0 +1,6 @@
+# Ignore bin/debug, bin/release content
+bin/Debug/**
+bin/Release/**
+
+# Ignore obj/debug content
+obj/Debug/**
