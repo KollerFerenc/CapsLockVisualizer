@@ -1,2 +1,3 @@
 # CapsLockVisualizer
+# CapsLockVisualizer
 
