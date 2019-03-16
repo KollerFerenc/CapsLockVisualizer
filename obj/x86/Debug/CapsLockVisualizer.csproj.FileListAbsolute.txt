@@ -1,0 +1,9 @@
+D:\GIT\My Projects\C#\CapsLockVisualizer2\bin\Debug\WindowsApplication.exe.config
+D:\GIT\My Projects\C#\CapsLockVisualizer2\bin\Debug\WindowsApplication.exe
+D:\GIT\My Projects\C#\CapsLockVisualizer2\bin\Debug\WindowsApplication.pdb
+D:\GIT\My Projects\C#\CapsLockVisualizer2\obj\x86\Debug\CapsLockVisualizer.csprojAssemblyReference.cache
+D:\GIT\My Projects\C#\CapsLockVisualizer2\obj\x86\Debug\CapsLockVisualizer.Properties.Resources.resources
+D:\GIT\My Projects\C#\CapsLockVisualizer2\obj\x86\Debug\CapsLockVisualizer.csproj.GenerateResource.cache
+D:\GIT\My Projects\C#\CapsLockVisualizer2\obj\x86\Debug\CapsLockVisualizer.csproj.CoreCompileInputs.cache
+D:\GIT\My Projects\C#\CapsLockVisualizer2\obj\x86\Debug\WindowsApplication.exe
+D:\GIT\My Projects\C#\CapsLockVisualizer2\obj\x86\Debug\WindowsApplication.pdb
